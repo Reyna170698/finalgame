@@ -1,0 +1,20 @@
+body {
+	background-image: url(../img/ciencia/1812.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	font-family: Helvetica;
+	color: #F6F09C;
+}
+
+.cat{
+	position: absolute;
+	top: 330px;
+	left: 580px;
+}
+
+
+.preguntas{
+	width: 60vw;
+	margin: 100px 250px;
+	text-align: center;
+}
