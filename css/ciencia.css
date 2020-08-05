@@ -4,22 +4,6 @@ body {
     background-size: cover;
 }
 
-button {
-    color: whitesmoke;
-    font-size: 300%;
-    border: none;
-    outline: none;
-    background: none;
-    padding: 0px 15px;
-    width: 55px;
-    height: 30px;
-    line-height: 30px;
-    -webkit-border-radius: 32px;
-    -moz-border-radius: 32px;
-    border-radius: 32px;
-    float: left;
-}
-
 #reycat {
     position: fixed;
     bottom: 26%;
